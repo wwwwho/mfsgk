@@ -14,15 +14,19 @@
 
 ## 天眼社工库天玑
 
-天眼社工库拥有数百亿数据,全网独家姓名选人,对新人比较友好,新人免费使用5次,之后可以通过邀请的方式获取积分免费使用.
+天眼社工库是一个2026最新免费社工库查询工具,拥有数百亿数据,全网独家姓名选人,对新人比较友好,新人免费使用5次,之后可以通过邀请的方式获取积分免费使用.
 
 社工库账号:[天眼社工库天玑](https://t.me/tysgk03bot?start=88)，使用方法见[底部](#相关教程)。
 
-## 天玑阁社工库
+<a href="https://t.me/tysgk03bot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
-天玑阁社工库是个拥有数十亿手机身份信息的免费社工库,新人免费使用5次,自行体验.
+## 天机阁社工库之乾坤
 
-社工库账号:[天玑阁](https://t.me/tianjigebot?start=88)，使用方法见[底部](#相关教程)。
+天机阁社工库是一个拥有数十亿手机身份信息的免费社工库,新人免费使用5次,自行体验.
+
+社工库账号:[天机阁](https://t.me/tianjigebot?start=88)，使用方法见[底部](#相关教程)。
+
+<a href="https://t.me/tianjigebot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 ## 暗精灵社工库
 
