@@ -16,9 +16,9 @@
 
 天眼社工库是一个可以免费使用的社工库,2026年新推出的免费社工库查询工具,拥有数百亿数据,全网独家姓名选人,对新人比较友好,新人免费使用5次,之后可以通过邀请的方式获取积分免费使用.
 
-社工库账号:[天眼社工库天玑](https://telegram.me/tysgk03bot?start=88)，使用方法见[底部](#相关教程)。
+社工库账号:[天眼社工库天玑](https://telegram.me/tianyanSGKbot?start=88)，使用方法见[底部](#相关教程)。
 
-<a href="https://telegram.me/tysgk03bot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://telegram.me/tianyanSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/tDZF7.jpeg" alt="天眼社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 ## 天机阁社工库之乾坤
 
@@ -169,7 +169,7 @@ hope社工库是一个微信绑定查询社工库,同时支持QQ绑定查询社�
 
 无名社工库是一个开房记录查询社工库,同时也支持身份户籍/手机机主/车牌车主等信息的查询操作.
 
-社工库账号：<a href="https://telegram.me/tysgk03bot?start=88" target="_blank">@tysgk03bot</a>,使用方法见[底部](#相关教程)。
+社工库账号：<a href="https://telegram.me/tianyanSGKbot?start=88" target="_blank">@tianyanSGKbot</a>,使用方法见[底部](#相关教程)。
 
 
 ## 好旺社工库
