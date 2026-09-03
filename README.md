@@ -24,9 +24,9 @@
 
 天机阁社工库是一个拥有数十亿手机身份信息的免费社工库,新人免费使用5次,自行体验.
 
-社工库账号:[天机阁](https://telegram.me/tianjigebot?start=88)，使用方法见[底部](#相关教程)。
+社工库账号:[天机阁](https://telegram.me/tianjigeSGKbot?start=88)，使用方法见[底部](#相关教程)。
 
-<a href="https://telegram.me/tianjigebot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
+<a href="https://telegram.me/tianjigeSGKbot?start=88" target="_blank"><img src="https://i.urusai.cc/7qvqC.jpeg" alt="天机阁社工库查询工具-社工库开盒-免费社工库下载" border="0" style="width:380px;"></a>
 
 ## 暗精灵社工库
 
