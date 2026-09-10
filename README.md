@@ -66,7 +66,7 @@
 
 最新云查查免费社工库是一个telegram查询机器人，永久免费使用,支持抖音号查询个人信息，微信号反查个人信息。
 
-社工库账号: <a href="https://telegram.me/mfsgk2025" target="_blank">@mfsgk2025</a>,使用方法见[底部](#相关教程)。
+社工库账号: <a href="https://telegram.me/mfsgk2026" target="_blank">@mfsgk2026</a>,使用方法见[底部](#相关教程)。
 
 ## 启航社工库软件
 
